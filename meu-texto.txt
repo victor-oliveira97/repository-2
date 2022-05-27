@@ -1,0 +1,2 @@
+Olá, meu nome é victor e esse é o meu primeiro repositório
+no git. Estou aprendendo a usar os camndos via bash!!!
